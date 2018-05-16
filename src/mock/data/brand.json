@@ -1,0 +1,1138 @@
+
+{
+    "msg": "",
+    "code": "succeed",
+    "login_status": 0,
+    "mall_uid": "epet_0",
+    "mall_user": "",
+    "sys_time": 1523895894,
+    "hash": "",
+    "epet_site": "epet",
+    "brand": [
+        {
+            "title": "推荐品牌",
+            "list": [
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2016-09/28/10/3b236d1731bd91004bffcec3515e1a0a.jpg",
+                    "name": "冠能",
+                    "address": "美国",
+                    "brandid": "14",
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "14"
+                    },
+                    "recommend": 0,
+                    "tagongyi": 0
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2017-08/09/20/64ac5fd97740cb0fab0cfe3eac1d27f7.jpg",
+                    "name": "ZIWI Peak",
+                    "address": "新西兰",
+                    "brandid": "725",
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "725"
+                    },
+                    "recommend": 1,
+                    "tagongyi": 0
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2013-01/28/87feaa80f9fbed84c37a7b07da6324a1.jpg",
+                    "name": "原始猎食渴望",
+                    "address": "加拿大",
+                    "brandid": "142",
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "142"
+                    },
+                    "recommend": 0,
+                    "tagongyi": 0
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2016-08/12/16/4c37fc2c6578742b2a7747c135c5aef4.jpg",
+                    "name": "麦高臣MicrocynAH",
+                    "address": "美国",
+                    "brandid": "1207",
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "1207"
+                    },
+                    "recommend": 0,
+                    "tagongyi": 0
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2016-08/12/16/276527f25e9151ef48b0b8d2dba79d29.jpg",
+                    "name": "谷登GOLDEN",
+                    "address": "中国",
+                    "brandid": "829",
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "829"
+                    },
+                    "recommend": 0,
+                    "tagongyi": 1
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2016-08/12/14/92fbaaa1260480fd9f97fa63ccd1fc7b.jpg",
+                    "name": "爱喜雅",
+                    "address": "日本",
+                    "brandid": "853",
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "853"
+                    },
+                    "recommend": 0,
+                    "tagongyi": 0
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2015-10/17/12/d9e05c4a2d35c88ffee0dcec98fba6a4.jpg",
+                    "name": "MAG",
+                    "address": "英国",
+                    "brandid": "830",
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "830"
+                    },
+                    "recommend": 0,
+                    "tagongyi": 1
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2016-08/12/14/f439e0dc22df3f6c5bc8919b8d9e5c82.jpg",
+                    "name": "卡比CANIDAE",
+                    "address": "美国",
+                    "brandid": "19",
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "19"
+                    },
+                    "recommend": 0,
+                    "tagongyi": 0
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2015-08/14/14/42ab9ac9118609ec64e43e95f922bd29.jpg",
+                    "name": "拉夫威尔",
+                    "address": "美国",
+                    "brandid": "1046",
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "1046"
+                    },
+                    "recommend": 0,
+                    "tagongyi": 0
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2016-08/12/14/370a7f6ed7d607b8542aa9e37d202ac5.jpg",
+                    "name": "爱肯拿Acana",
+                    "address": "加拿大",
+                    "brandid": "413",
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "413"
+                    },
+                    "recommend": 0,
+                    "tagongyi": 0
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2016-08/19/10/5954f54fb0dc4c466c1d663195264281.jpg",
+                    "name": "皇室Sea Kingdom",
+                    "address": "泰国",
+                    "brandid": "942",
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "942"
+                    },
+                    "recommend": 0,
+                    "tagongyi": 0
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2013-06/29/d6b2233aeec1529b8847fe22075762e8.jpg",
+                    "name": "蓝氏LegendSandy",
+                    "address": "中国",
+                    "brandid": "351",
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "351"
+                    },
+                    "recommend": 0,
+                    "tagongyi": 0
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2017-03/09/16/d0d206328de0321550d7e6f45ee9b5c7.jpg",
+                    "name": "顽皮Wanpy",
+                    "address": "中国",
+                    "brandid": "122",
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "122"
+                    },
+                    "recommend": 0,
+                    "tagongyi": 0
+                }
+            ]
+        },
+        {
+            "title": "主粮品牌",
+            "list": [
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2016-09/28/10/3b236d1731bd91004bffcec3515e1a0a.jpg",
+                    "name": "冠能",
+                    "address": "美国",
+                    "brandid": "14",
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "14"
+                    },
+                    "recommend": 0,
+                    "tagongyi": 0
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2016-08/12/16/2d1826af31eac743bb3c32233511d759.jpg",
+                    "name": "耐吉斯",
+                    "address": "美国",
+                    "brandid": "931",
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "931"
+                    },
+                    "recommend": 0,
+                    "tagongyi": 0
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2017-08/09/20/64ac5fd97740cb0fab0cfe3eac1d27f7.jpg",
+                    "name": "ZIWI Peak",
+                    "address": "新西兰",
+                    "brandid": "725",
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "725"
+                    },
+                    "recommend": 1,
+                    "tagongyi": 0
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2016-08/12/14/f439e0dc22df3f6c5bc8919b8d9e5c82.jpg",
+                    "name": "卡比CANIDAE",
+                    "address": "美国",
+                    "brandid": "19",
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "19"
+                    },
+                    "recommend": 0,
+                    "tagongyi": 0
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2016-08/12/14/0f3829b8dac7ac968c8ca868c901b4c1.jpg",
+                    "name": "NOW FRESH",
+                    "address": "加拿大",
+                    "brandid": "3",
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "3"
+                    },
+                    "recommend": 0,
+                    "tagongyi": 0
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2014-08/06/ef4a3c316d6f2bb6a4258c4bbe962da3.jpg",
+                    "name": "贵族Natures Gift",
+                    "address": "澳大利亚",
+                    "brandid": "13",
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "13"
+                    },
+                    "recommend": 0,
+                    "tagongyi": 0
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/2016-08/18/16/c997f3ae79a7568cf7b6dde5c7b7f8b1.jpg",
+                    "name": "Annamaet",
+                    "address": "美国",
+                    "brandid": "259",
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "259"
+                    },
+                    "recommend": 0,
+                    "tagongyi": 1
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2016-08/12/14/436a1eeeb8fdb467fcf70c104286f98e.jpg",
+                    "name": "鱼子酱Canine Caviar",
+                    "address": "美国",
+                    "brandid": "198",
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "198"
+                    },
+                    "recommend": 1,
+                    "tagongyi": 0
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2016-08/12/14/72d26c05eb8f3c3ad381603c2c74bacb.jpg",
+                    "name": "N3",
+                    "address": "中国",
+                    "brandid": "569",
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "569"
+                    },
+                    "recommend": 0,
+                    "tagongyi": 0
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2016-08/12/14/00f0209d39c9fbbea1bf8b13f87fd2e4.jpg",
+                    "name": "盛来知Sunrise",
+                    "address": "日本",
+                    "brandid": "516",
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "516"
+                    },
+                    "recommend": 0,
+                    "tagongyi": 0
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2016-08/12/14/194f113e4769c91a06713f2651e5664e.jpg",
+                    "name": "Wellness",
+                    "address": "美国",
+                    "brandid": "378",
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "378"
+                    },
+                    "recommend": 0,
+                    "tagongyi": 0
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2013-06/29/d6b2233aeec1529b8847fe22075762e8.jpg",
+                    "name": "蓝氏LegendSandy",
+                    "address": "中国",
+                    "brandid": "351",
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "351"
+                    },
+                    "recommend": 0,
+                    "tagongyi": 0
+                }
+            ]
+        },
+        {
+            "title": "零食品牌",
+            "list": [
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2016-08/12/14/4942dd1fe05aadf32a8cc09d1ea5e9a3.jpg",
+                    "name": "骏宝Gimpet",
+                    "address": "德国",
+                    "brandid": "474",
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "474"
+                    },
+                    "recommend": 0,
+                    "tagongyi": 0
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2017-10/17/10/7b7c0d9ce5c5b8b0471c48e2a9da3836.png",
+                    "name": "Ubite",
+                    "address": "加拿大",
+                    "brandid": "1595",
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "1595"
+                    },
+                    "recommend": 1,
+                    "tagongyi": 0
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2018-03/23/11/b5b49147e3970ff83bd97e720c3f95e4.jpg",
+                    "name": "钢骨",
+                    "address": "中国",
+                    "brandid": "1605",
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "1605"
+                    },
+                    "recommend": 0,
+                    "tagongyi": 0
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2018-01/11/14/8f2882460ca34d3dd96fad84a1e21681.jpg",
+                    "name": "阿飞和巴弟",
+                    "address": "中国",
+                    "brandid": "1622",
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "1622"
+                    },
+                    "recommend": 0,
+                    "tagongyi": 0
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2016-12/15/14/a9fcef55f088b6c7c4e6833568d4669e.jpg",
+                    "name": "HappiDoggy",
+                    "address": "新加坡",
+                    "brandid": "1301",
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "1301"
+                    },
+                    "recommend": 1,
+                    "tagongyi": 0
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2017-10/27/11/7bd8c6a5b5a036ebe33791cce5f6bd24.jpg",
+                    "name": "Dear deer",
+                    "address": "中国",
+                    "brandid": "1662",
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "1662"
+                    },
+                    "recommend": 0,
+                    "tagongyi": 0
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2017-10/24/14/2af1de3319e5729745a6f52097b1bc5f.jpg",
+                    "name": "kitcat",
+                    "address": "新加坡",
+                    "brandid": "1663",
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "1663"
+                    },
+                    "recommend": 0,
+                    "tagongyi": 0
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2018-02/02/16/9dec537b1235111735359e1eee3f2781.jpg",
+                    "name": "妙可斯",
+                    "address": "中国",
+                    "brandid": "1945",
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "1945"
+                    },
+                    "recommend": 0,
+                    "tagongyi": 0
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2017-12/06/11/1ec16dfe678240c3f10e90e344176cd7.jpg",
+                    "name": "爱谛 iti",
+                    "address": "新西兰",
+                    "brandid": "1946",
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "1946"
+                    },
+                    "recommend": 0,
+                    "tagongyi": 0
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2018-03/06/14/dbd33d163bdd9752235fe850f8f7e257.jpg",
+                    "name": "Primo",
+                    "address": "泰国",
+                    "brandid": "2037",
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "2037"
+                    },
+                    "recommend": 0,
+                    "tagongyi": 0
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2018-03/30/11/69fd9850ff3074198fee4b5b8dcc6e58.jpg",
+                    "name": "玛西姆",
+                    "address": "泰国",
+                    "brandid": "2038",
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "2038"
+                    },
+                    "recommend": 0,
+                    "tagongyi": 0
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2018-03/12/10/77f893ad25959010b23833c5acc280bb.jpg",
+                    "name": "艾禾美",
+                    "address": "美国",
+                    "brandid": "2050",
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "2050"
+                    },
+                    "recommend": 1,
+                    "tagongyi": 0
+                }
+            ]
+        },
+        {
+            "title": "医疗品牌",
+            "list": [
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2018-01/04/18/e7c57c884144f9ff1be4c06eccfc885c.jpg",
+                    "name": "宝神 BAOSHEN",
+                    "address": "中国",
+                    "brandid": "2040",
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "2040"
+                    },
+                    "recommend": 0,
+                    "tagongyi": 0
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2018-01/17/14/d86a6e9af043c98bb4097844702d750f.jpg",
+                    "name": "恩倍多",
+                    "address": "中国",
+                    "brandid": "2049",
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "2049"
+                    },
+                    "recommend": 0,
+                    "tagongyi": 0
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2018-03/12/10/77f893ad25959010b23833c5acc280bb.jpg",
+                    "name": "艾禾美",
+                    "address": "美国",
+                    "brandid": "2050",
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "2050"
+                    },
+                    "recommend": 1,
+                    "tagongyi": 0
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2018-03/30/11/46fd8da71b2fbd59666dd4670a53ac07.jpg",
+                    "name": "博来恩",
+                    "address": "法国",
+                    "brandid": "2053",
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "2053"
+                    },
+                    "recommend": 0,
+                    "tagongyi": 0
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2018-04/03/09/d0eb70a08b3e6e751d9ccae12fbb839b.jpg",
+                    "name": "N-SHIELD",
+                    "address": "新加坡",
+                    "brandid": "2065",
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "2065"
+                    },
+                    "recommend": 0,
+                    "tagongyi": 0
+                }
+            ]
+        },
+        {
+            "title": "保健品牌",
+            "list": [
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2018-03/30/11/5c324a01400dbb97604b4282544c893c.jpg",
+                    "name": "俊宝",
+                    "address": "德国",
+                    "brandid": "2032",
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "2032"
+                    },
+                    "recommend": 0,
+                    "tagongyi": 0
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2018-01/04/18/e7c57c884144f9ff1be4c06eccfc885c.jpg",
+                    "name": "宝神 BAOSHEN",
+                    "address": "中国",
+                    "brandid": "2040",
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "2040"
+                    },
+                    "recommend": 0,
+                    "tagongyi": 0
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2018-03/30/11/2bd784a043e7c173a51425dc3f35c761.jpg",
+                    "name": "瑞敏可",
+                    "address": "中国",
+                    "brandid": "2047",
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "2047"
+                    },
+                    "recommend": 0,
+                    "tagongyi": 0
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2018-03/12/10/77f893ad25959010b23833c5acc280bb.jpg",
+                    "name": "艾禾美",
+                    "address": "美国",
+                    "brandid": "2050",
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "2050"
+                    },
+                    "recommend": 1,
+                    "tagongyi": 0
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2018-03/30/11/4743e55efcae8cd3a2ab41538f0a9205.jpg",
+                    "name": "美克芬",
+                    "address": "中国",
+                    "brandid": "2067",
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "2067"
+                    },
+                    "recommend": 0,
+                    "tagongyi": 0
+                },
+                {
+                    "logo": "https://static.epetbar.com/static_wap/appmall/brand/brand_default.jpg?",
+                    "name": "TROY",
+                    "address": "澳大利亚",
+                    "brandid": "2073",
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "2073"
+                    },
+                    "recommend": 0,
+                    "tagongyi": 0
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2018-03/27/09/d27f49560dc88946f20cb934f5caa94b.png",
+                    "name": "Z-PET",
+                    "address": "美国",
+                    "brandid": "2079",
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "2079"
+                    },
+                    "recommend": 0,
+                    "tagongyi": 0
+                }
+            ]
+        },
+        {
+            "title": "洗护品牌",
+            "list": [
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2015-09/15/10/a1c4161a5dc68ed965121609eab58c0a.jpg",
+                    "name": "雪貂留香",
+                    "address": "中国",
+                    "brandid": "985",
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "985"
+                    },
+                    "recommend": 0,
+                    "tagongyi": 0
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/2016-08/18/16/92371ab34de0ea12b67028d6625c5180.jpg",
+                    "name": "雷米高",
+                    "address": "中国",
+                    "brandid": "17",
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "17"
+                    },
+                    "recommend": 0,
+                    "tagongyi": 1
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2013-06/27/d476f0aa869c7b092c2c8884721feb53.jpg",
+                    "name": "顶间",
+                    "address": "美国",
+                    "brandid": "11",
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "11"
+                    },
+                    "recommend": 0,
+                    "tagongyi": 0
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2017-01/05/10/e24c8c53e5cc7c67797d8f3446bae26e.jpg",
+                    "name": "威铂",
+                    "address": "美国",
+                    "brandid": "631",
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "631"
+                    },
+                    "recommend": 0,
+                    "tagongyi": 0
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2016-08/12/16/2fba21e756400ead8df4497d0db78611.jpg",
+                    "name": "稻屋Jerob",
+                    "address": "美国",
+                    "brandid": "1317",
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "1317"
+                    },
+                    "recommend": 0,
+                    "tagongyi": 0
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2016-08/12/14/a14d585a01c5d845d37c94721132c102.jpg",
+                    "name": "乐芳希施",
+                    "address": "日本",
+                    "brandid": "597",
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "597"
+                    },
+                    "recommend": 0,
+                    "tagongyi": 0
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2016-08/12/16/ec13ca828cca3bd057ea186d1a58353c.jpg",
+                    "name": "魔金Magic",
+                    "address": "中国",
+                    "brandid": "233",
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "233"
+                    },
+                    "recommend": 0,
+                    "tagongyi": 0
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2016-08/13/16/9f7008355425d44955d1a5df8b8586bd.jpg",
+                    "name": "Karlie",
+                    "address": "德国",
+                    "brandid": "1280",
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "1280"
+                    },
+                    "recommend": 0,
+                    "tagongyi": 0
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2016-08/12/16/5f43a367d312cdb5bb91adbddb864f37.jpg",
+                    "name": "Divine Pets",
+                    "address": "澳大利亚",
+                    "brandid": "1261",
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "1261"
+                    },
+                    "recommend": 0,
+                    "tagongyi": 0
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2016-08/12/14/53aa346a561f1d2b938b0f9a8237851b.jpg",
+                    "name": "百威皇冠",
+                    "address": "美国",
+                    "brandid": "339",
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "339"
+                    },
+                    "recommend": 0,
+                    "tagongyi": 0
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2016-08/12/14/50f192f873ba9141cb65a53b5c10dc5a.jpg",
+                    "name": "旺芙",
+                    "address": "台湾",
+                    "brandid": "343",
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "343"
+                    },
+                    "recommend": 0,
+                    "tagongyi": 0
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2016-08/12/14/e74875e802a7ff99b9ed2cb5c49b6f45.jpg",
+                    "name": "爱诗碧Espree",
+                    "address": "美国",
+                    "brandid": "1208",
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "1208"
+                    },
+                    "recommend": 0,
+                    "tagongyi": 0
+                }
+            ]
+        },
+        {
+            "title": "玩具品牌",
+            "list": [
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2016-08/12/16/ef99f84749812353fb8b402a25120f6a.jpg",
+                    "name": "彼痞客ppark",
+                    "address": "台湾",
+                    "brandid": "972",
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "972"
+                    },
+                    "recommend": 0,
+                    "tagongyi": 0
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2016-08/12/16/ce7e1b38a92a51b517efc03a004c777d.jpg",
+                    "name": "R2P",
+                    "address": "美国",
+                    "brandid": "963",
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "963"
+                    },
+                    "recommend": 0,
+                    "tagongyi": 0
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2016-10/18/12/8e577eadf5620fcda743c1d6c11b39b0.jpg",
+                    "name": " P.L.A.Y.",
+                    "address": "美国",
+                    "brandid": "1445",
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "1445"
+                    },
+                    "recommend": 0,
+                    "tagongyi": 0
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2016-08/19/10/001bc93001b123d3abf7c37e435ba19b.jpg",
+                    "name": "petsafe",
+                    "address": "美国",
+                    "brandid": "779",
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "779"
+                    },
+                    "recommend": 0,
+                    "tagongyi": 0
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2016-08/12/16/5beaad00c3931b9bca8b4f5bac1d6b2d.jpg",
+                    "name": "Petmate",
+                    "address": "美国",
+                    "brandid": "1322",
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "1322"
+                    },
+                    "recommend": 0,
+                    "tagongyi": 0
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2016-08/12/14/f98d6e327b095b34847aacec1bf35d5c.jpg",
+                    "name": "派地奥Petio",
+                    "address": "日本",
+                    "brandid": "239",
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "239"
+                    },
+                    "recommend": 0,
+                    "tagongyi": 0
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2016-11/16/10/a6c6f2a454dadbe5ee5f182d5d231441.jpg",
+                    "name": "Major Dog",
+                    "address": "德国",
+                    "brandid": "1162",
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "1162"
+                    },
+                    "recommend": 0,
+                    "tagongyi": 0
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2016-08/13/16/9f7008355425d44955d1a5df8b8586bd.jpg",
+                    "name": "Karlie",
+                    "address": "德国",
+                    "brandid": "1280",
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "1280"
+                    },
+                    "recommend": 0,
+                    "tagongyi": 0
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2016-08/12/16/11f2c2b361abbbb41c1b0f7eb4126b6a.jpg",
+                    "name": "Rosewood",
+                    "address": "英国",
+                    "brandid": "1267",
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "1267"
+                    },
+                    "recommend": 0,
+                    "tagongyi": 0
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2016-08/12/16/9bf7543528fec2029fd07856f04217a8.jpg",
+                    "name": "田田猫",
+                    "address": "中国",
+                    "brandid": "882",
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "882"
+                    },
+                    "recommend": 0,
+                    "tagongyi": 0
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2016-08/11/12/05d8e4fb8b9c25268828a5cb9d37bc1c.jpg",
+                    "name": "PETSTAGES",
+                    "address": "美国",
+                    "brandid": "863",
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "863"
+                    },
+                    "recommend": 0,
+                    "tagongyi": 0
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2016-12/12/18/26d9e239dd3b06bb53ac30023d1eb614.jpg",
+                    "name": "莱诺",
+                    "address": "中国",
+                    "brandid": "129",
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "129"
+                    },
+                    "recommend": 0,
+                    "tagongyi": 0
+                }
+            ]
+        },
+        {
+            "title": "日用品牌",
+            "list": [
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2016-08/13/16/be4c1125ac976e9771117a59af6d874e.jpg",
+                    "name": "小宠",
+                    "address": "中国",
+                    "brandid": "205",
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "205"
+                    },
+                    "recommend": 0,
+                    "tagongyi": 0
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2016-11/16/16/1bb4f65b4e891ca0c21dfb8a9e2fc83a.jpg",
+                    "name": "Industripet",
+                    "address": "澳大利亚",
+                    "brandid": "1439",
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "1439"
+                    },
+                    "recommend": 0,
+                    "tagongyi": 0
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2016-11/16/14/b67928ce7e9e57c9531eb280f7f543f3.jpg",
+                    "name": "多乐氏TAURUS",
+                    "address": "中国",
+                    "brandid": "1285",
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "1285"
+                    },
+                    "recommend": 0,
+                    "tagongyi": 0
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2016-11/16/14/c604ec7f7e244fa061e9d2acc3e479a7.jpg",
+                    "name": "Daisuki",
+                    "address": "台湾",
+                    "brandid": "527",
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "527"
+                    },
+                    "recommend": 0,
+                    "tagongyi": 0
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2016-08/13/16/9f7008355425d44955d1a5df8b8586bd.jpg",
+                    "name": "Karlie",
+                    "address": "德国",
+                    "brandid": "1280",
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "1280"
+                    },
+                    "recommend": 0,
+                    "tagongyi": 0
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2016-08/12/16/11f2c2b361abbbb41c1b0f7eb4126b6a.jpg",
+                    "name": "Rosewood",
+                    "address": "英国",
+                    "brandid": "1267",
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "1267"
+                    },
+                    "recommend": 0,
+                    "tagongyi": 0
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2016-08/12/16/8f328b276a78cb591164ab0a535ba46c.jpg",
+                    "name": "多尼斯DOGNESS",
+                    "address": "中国",
+                    "brandid": "1263",
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "1263"
+                    },
+                    "recommend": 0,
+                    "tagongyi": 0
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2016-08/12/16/5f43a367d312cdb5bb91adbddb864f37.jpg",
+                    "name": "Divine Pets",
+                    "address": "澳大利亚",
+                    "brandid": "1261",
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "1261"
+                    },
+                    "recommend": 0,
+                    "tagongyi": 0
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2016-08/12/16/ed1d1c438704a6f2ecb59fd2b46ef1c7.jpg",
+                    "name": "佳乐滋",
+                    "address": "日本",
+                    "brandid": "1066",
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "1066"
+                    },
+                    "recommend": 0,
+                    "tagongyi": 0
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2016-08/12/16/479a8352f14c29e35471b839443df004.jpg",
+                    "name": "GEX",
+                    "address": "中国",
+                    "brandid": "898",
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "898"
+                    },
+                    "recommend": 0,
+                    "tagongyi": 0
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2016-08/12/16/89bfdc4fdd26d5f537f3c1554f68de08.jpg",
+                    "name": "猫倍思CATS BEST",
+                    "address": "德国",
+                    "brandid": "897",
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "897"
+                    },
+                    "recommend": 0,
+                    "tagongyi": 0
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2016-08/12/16/9bf7543528fec2029fd07856f04217a8.jpg",
+                    "name": "田田猫",
+                    "address": "中国",
+                    "brandid": "882",
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "882"
+                    },
+                    "recommend": 0,
+                    "tagongyi": 0
+                }
+            ]
+        },
+        {
+            "title": "护理品牌",
+            "list": [
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2017-06/09/10/02a4eba1adabeb278da6551bd3cc7d79.jpg",
+                    "name": "Dakpets",
+                    "address": "澳大利亚",
+                    "brandid": "1536",
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "1536"
+                    },
+                    "recommend": 0,
+                    "tagongyi": 0
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2018-03/30/11/b9e60f0264fe8ebeccc0d685179e61f8.jpg",
+                    "name": "贝帮beaphar",
+                    "address": "荷兰",
+                    "brandid": "1541",
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "1541"
+                    },
+                    "recommend": 0,
+                    "tagongyi": 0
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2018-03/30/11/5044795c26e71ef3eeec9e7c25836701.jpg",
+                    "name": "简斯",
+                    "address": "中国",
+                    "brandid": "1661",
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "1661"
+                    },
+                    "recommend": 0,
+                    "tagongyi": 0
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2018-01/31/11/7e44e3bac1ef26dca218c1a847803e90.jpg",
+                    "name": "得乐",
+                    "address": "中国",
+                    "brandid": "447",
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "447"
+                    },
+                    "recommend": 0,
+                    "tagongyi": 0
+                },
+                {
+                    "logo": "https://img2.epetbar.com/nowater/brand_logo/2018-03/30/13/62db14fceb2bdcca7e7d713a494a1f6b.jpg",
+                    "name": "金派滋",
+                    "address": "中国",
+                    "brandid": "2063",
+                    "target": {
+                        "mode": "brand_homepage",
+                        "param": "2063"
+                    },
+                    "recommend": 0,
+                    "tagongyi": 0
+                }
+            ]
+        }
+    ]
+}

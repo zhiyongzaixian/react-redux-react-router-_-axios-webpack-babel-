@@ -1,0 +1,118 @@
+.container {
+  font-size: 16px;
+  position: absolute;
+  height:100%;
+  width:100% ;
+  background: #ededed;
+}
+
+.header {
+  height:50px;
+  text-align:center;
+  display: flex;  /*iconfont 和text文字水平对齐*/
+  background:#fff;
+}
+
+.headerLeft, .headerRight{
+  width:10%;
+  height:100%;
+  line-height: 50px;
+}
+.headerLeft i{
+  font-size: 28px;
+}
+.headerRight i{
+  font-size: 28px;
+}
+
+
+.content {
+  display: inline-block;
+  width:80%;
+  line-height: 50px;
+  font-size: 22px;
+  font-weight: 300;
+  color: #666;
+  background:#fff;
+}
+
+:global(.headerNav) {
+  overflow: hidden;
+  width:100%;
+  height:0;
+  text-align: center;
+  border-top:1px solid #eee;
+  border-bottom:1px solid #eee;
+  transition: height 1s;
+  background:#fff;
+}
+:global(.headerNav li ){
+  float: left;
+  width:25%;
+  height:75px;
+  padding-top: 14px;
+  box-sizing: border-box;
+}
+
+:global(.headerNav li a ){
+  display: block;
+  width:100%;
+  height:100%;
+}
+
+:global(.headerNav li i){
+  font-size: 30px;
+}
+:global(.headerNav li div ){
+  margin-top: 4px;
+}
+/*控制高度动画的类*/
+
+:global(.navAnimate){
+  height:0;
+}
+
+:global(.navAnimate2){
+  height:75px;
+}
+
+.cartBg {
+  width:100%;
+  height:170px;
+  background: url("./img/cart-ico.png") 50% 100% no-repeat #fff;
+}
+
+
+.cartContent {
+  height:30px;
+  text-align: center;
+  font-size: 18px;
+  color: #7e8c8d;
+  background:#fff;
+}
+.navLink{
+  text-align: center;
+  padding: 10px 0;
+  background:#fff;
+}
+.navLink a{
+  display: inline-block;
+  width:100px;
+  height:40px;
+  line-height: 40px;
+  text-align: center;
+  border:1px solid #eee;
+  border-radius: 10px;
+}
+.navLink a:first-child {
+  margin-right: 3px;
+}
+.navLink a:last-child {
+  margin-left: 3px;
+}
+
+
+
+
+
+

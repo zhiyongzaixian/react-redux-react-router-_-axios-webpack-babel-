@@ -1,0 +1,38 @@
+
+/*定义css modules局部作用域className 可在组件中直接使用*/
+/*也可以利用:global()定义全局样式，*/
+
+:global(.goDog) {
+  position: fixed;
+  right:0;
+  bottom:80px;
+  width:40px;
+  height:46px;
+  background: red;
+  background: url("/images/goDog.png") no-repeat;
+  background-size: 200% 100%;
+  background-position: 100% 100%;
+}
+
+/*考虑用animation实现动画：眨眼睛，但效果不对， 所以考虑用js是实现*/
+
+/*steps() 跳跃函数*/
+
+:global(.goAnimate) {
+  animation: goDog 2s steps(1) both infinite;
+}
+
+@keyframes goDog {
+  0% {background-position: 0}
+  50% {background-position: 100% 100%;}
+  100% {background-position: 0}
+}
+
+/*公共样式*/
+/*定义清除浮动的类*/
+:global(.clearfix:after){
+  content: '';
+  display: block;
+  height:0;
+  clear: both;
+}

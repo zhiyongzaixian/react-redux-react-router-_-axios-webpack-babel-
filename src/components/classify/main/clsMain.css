@@ -1,0 +1,73 @@
+.container {
+  height:100%;
+  overflow: hidden;
+}
+.navContainer {
+  height: 100%;
+  float: left;
+  margin-left: -100%;
+  width:70px;
+  overflow: hidden;
+  background: #fff;
+}
+
+.nav li {
+  border-bottom: 1px solid #f3f4f5;
+  width:100%;
+  height:50px;
+  line-height: 50px;
+  text-align: center;
+  font-size: 13px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  font-weight: 500;
+}
+
+/*右侧list数据库*/
+
+.listContainer {
+  float: left;
+  width:100%;
+  height:100%;
+  padding-top: 5px;
+  background: #eee;
+}
+
+.listContainer>div {
+  margin-left: 75px;
+  background: white;
+  height:100%;
+  overflow: hidden;
+}
+
+
+
+.list a {
+  font-size: 14px;
+  display: block;
+  color: #999999;
+  padding:5px;
+}
+
+.item {
+  float: left;
+  width:33.3333%;
+  padding:5px;
+  box-sizing: border-box;
+}
+
+.item>a {
+  display: block;
+}
+
+.item>a img {
+  width:100%;
+}
+.item p{
+  font-size: 12px;
+  font-weight: 500;
+  color: #333;
+  text-align: center;
+}
+

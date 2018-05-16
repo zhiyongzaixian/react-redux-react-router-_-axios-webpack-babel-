@@ -1,0 +1,291 @@
+.contentContainer {
+   padding-bottom: 20px;
+ }
+.wrapper {
+  height:475px; /*初始化加载设置定高是为了在动态计算出高度之前不让布局错乱布局错乱*/
+  overflow: hidden;
+}
+
+.navWrapper{
+  display: flex;
+  flex-wrap: wrap;  /*自动换行*/
+}
+
+.navWrapper li{
+  width:20%;
+
+}
+
+.navWrapper li>a {
+  display: block;
+  width:100%;
+  height:100%;
+}
+
+
+.navWrapper li img {
+  width:100%;
+  height:100%;
+}
+
+/*设置新人专享背景色*/
+.default_bg {
+  width:100%;
+  height:115px;
+  background: #f4f4f4;
+}
+.default_bg a {
+  width:100%;
+  height:100%;
+}
+
+.default_bg img {
+  width:100%;
+  height:100%;
+}
+
+.moreContainer {
+  font-size: 16px;
+}
+
+.moreHeader{
+  padding:10px 0 0 10px;
+  overflow: hidden;
+}
+
+.moreHeader img {
+  float: left;
+  width:85px;
+  margin-top: 3px;
+  height:20px;
+}
+
+.Countdown {
+  float: right;
+  height:20px;
+  width:200px;
+  line-height: 20px;
+  font-size: 14px;
+  text-align: right;
+}
+.Countdown span {
+  display: inline-block;
+  width:24px;
+  height:24px;
+  border:1px solid #eee;
+  text-align: center;
+  line-height: 24px;
+}
+
+
+.goMore {
+  float: right;
+}
+.goMore img {
+  height:34px;
+  width:67.5px;
+  margin-top: -5px;
+}
+
+
+/*设定更多列表样式*/
+
+.moreListContainer {
+  overflow: hidden;
+}
+
+.thispro-img {
+  text-align: center;
+}
+.thispro-img img {
+  width:85px;
+  height:85px;
+}
+
+.moreList {
+  overflow: hidden;
+}
+
+.moreItem {
+  float: left;
+  width:98px;
+  height:130px;
+}
+
+.moreItem>a {
+  display: block;
+}
+
+.moreItem img {
+  width: 85px;
+  height:85px;
+}
+
+.itemPrice {
+  text-align: center;
+  font-size: 12px;
+  line-height: 22px;
+  color: red;
+}
+
+.moreItem p {
+  text-align: center;
+  font-size: 12px;
+  height:26px;
+  line-height: 26px;
+  color: #999;
+}
+/*设置公共的背景*/
+:global(.total_bg) {
+  background:  #f4f4f4;
+  padding-top:1px;
+}
+
+/*divboximg*/
+.divboximg {
+  display: flex;
+  margin-top: 10px;
+  width:100%;
+  height:238px;
+}
+
+.divboximg a {
+  display: block;
+}
+
+/*.divboximg .left{*/
+  /*width:50%;*/
+  /*height:100%;*/
+/*}*/
+
+
+
+.divboximg .right, .divboximg .left{
+  display: flex;
+  flex-direction: column;
+  width:50%;
+  height:100%;
+}
+
+.divboximg .right a {
+  height:50%;
+}
+
+.divboximg img {
+  width:100%;
+  height:100%;
+}
+
+.seckill{
+  margin-top: 10px;
+  display: block;
+  height:160px;
+}
+
+.seckill img {
+  height:100%;
+  width:100%;
+}
+
+
+.brand {
+  margin-top: 10px;
+}
+
+.brandHead {
+  height:72px;
+  display: flex;
+  background: #fff;
+}
+
+.brandHead>div:first-child{
+  width:80%;
+  height:100%;
+}
+
+.brandHead>div:first-child img {
+  width:187.5px;
+  height:100%;
+  margin-left: 20px;
+  vertical-align: top;
+}
+
+.brandHead>div:last-child {
+  width:20%;
+  height:100%;
+}
+
+.brandHead>div:last-child img {
+  vertical-align: top;
+  width:60px;
+  height:55px;
+}
+
+/*品牌列表样式*/
+.brandList {
+  width:100%;
+}
+
+.brandList li {
+  width:100%;
+  height:160px;
+  margin: 10px 0;
+
+}
+
+.brandList li a {
+  display: block;
+  width:100%;
+  height:160px;
+}
+.brandList li img {
+  width:100%;
+  height:160px;
+}
+:local(video) {
+  display: block;
+  width:100%;
+  height:160px;
+}
+
+.footer_bg1 {
+  height:30px;
+  width:100%;
+  background: red;
+}
+
+.footer_bg1 img {
+  display: block;
+  width:100%;
+  height:100%;
+}
+
+/*设置底部样式*/
+.contentFooter {
+
+}
+
+.footerHeader {
+  text-align: center;
+  font-size: 14px;
+  margin-top: 30px;
+}
+.footerHeader span {
+  margin-right: 10px;
+}
+
+.footerHeader span a {
+  color: #333;
+}
+
+.copy {
+  font-size: 12px;
+  text-align: center;
+  color: #333;
+  font-weight: 200;
+  margin:20px 0;
+}
+
+
+
+

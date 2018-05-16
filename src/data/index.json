@@ -1,0 +1,1586 @@
+{
+    "msg": "",
+    "code": "succeed",
+    "login_status": 0,
+    "mall_uid": "epet_0",
+    "mall_user": "",
+    "sys_time": 1523893653,
+    "hash": "",
+    "epet_site": "epet",
+    "is_dynamic": 0,
+    "menus": [
+        {
+            "menu_id": "1",
+            "menu_name": "首页",
+            "menu_param": "0",
+            "menu_font_color": "#459d36",
+            "menu_line_color": "#459d36",
+            "menu_icon": {
+                "image": "",
+                "img_size": "",
+                "target": {}
+            },
+            "menu_target": "",
+            "menu_type": 0,
+            "menu_image": {
+                "image": "",
+                "img_size": "",
+                "selected_image": ""
+            },
+            "menu_shareid": "1",
+            "epetPageTag": {
+                "page_type": "index_page",
+                "page_pam": "",
+                "big_type": "dog"
+            }
+        },
+        {
+            "menu_id": "367",
+            "menu_name": "狗狗主粮",
+            "menu_param": "123",
+            "menu_font_color": "#e73f85",
+            "menu_line_color": "#459d36",
+            "menu_icon": {
+                "image": "",
+                "img_size": "",
+                "target": {}
+            },
+            "menu_target": "",
+            "menu_type": 0,
+            "menu_image": {
+                "image": "",
+                "img_size": "",
+                "selected_image": ""
+            },
+            "menu_shareid": "372",
+            "epetPageTag": {
+                "page_type": "",
+                "page_pam": "",
+                "big_type": "dog"
+            }
+        },
+        {
+            "menu_id": "369",
+            "menu_name": "零食",
+            "menu_param": "174",
+            "menu_font_color": "#e73f85",
+            "menu_line_color": "#459d36",
+            "menu_icon": {
+                "image": "",
+                "img_size": "",
+                "target": {}
+            },
+            "menu_target": "",
+            "menu_type": 0,
+            "menu_image": {
+                "image": "",
+                "img_size": "",
+                "selected_image": ""
+            },
+            "menu_shareid": "375",
+            "epetPageTag": {
+                "page_type": "",
+                "page_pam": "",
+                "big_type": "dog"
+            }
+        },
+        {
+            "menu_id": "368",
+            "menu_name": "医疗保健",
+            "menu_param": "172",
+            "menu_font_color": "#e73f85",
+            "menu_line_color": "#459d36",
+            "menu_icon": {
+                "image": "",
+                "img_size": "",
+                "target": {}
+            },
+            "menu_target": "",
+            "menu_type": 0,
+            "menu_image": {
+                "image": "",
+                "img_size": "",
+                "selected_image": ""
+            },
+            "menu_shareid": "374",
+            "epetPageTag": {
+                "page_type": "",
+                "page_pam": "",
+                "big_type": "dog"
+            }
+        },
+        {
+            "menu_id": "370",
+            "menu_name": "玩具",
+            "menu_param": "168",
+            "menu_font_color": "#e73f85",
+            "menu_line_color": "#459d36",
+            "menu_icon": {
+                "image": "",
+                "img_size": "",
+                "target": {}
+            },
+            "menu_target": "",
+            "menu_type": 0,
+            "menu_image": {
+                "image": "",
+                "img_size": "",
+                "selected_image": ""
+            },
+            "menu_shareid": "0",
+            "epetPageTag": {
+                "page_type": "",
+                "page_pam": "",
+                "big_type": "dog"
+            }
+        },
+        {
+            "menu_id": "371",
+            "menu_name": "外出",
+            "menu_param": "173",
+            "menu_font_color": "#e73f85",
+            "menu_line_color": "#459d36",
+            "menu_icon": {
+                "image": "",
+                "img_size": "",
+                "target": {}
+            },
+            "menu_target": "",
+            "menu_type": 0,
+            "menu_image": {
+                "image": "",
+                "img_size": "",
+                "selected_image": ""
+            },
+            "menu_shareid": "371",
+            "epetPageTag": {
+                "page_type": "",
+                "page_pam": "",
+                "big_type": "dog"
+            }
+        }
+
+    ],
+    "real_page_id": "0",
+    "datas": [
+        {
+            "index": "1",
+            "is_show": 1,
+            "type": "1",
+            "is_dynamic": "1",
+            "type_name": "图片轮播广告"
+        },
+        {
+            "index": "3047",
+            "is_show": 1,
+            "type": "3",
+            "is_dynamic": "0",
+            "type_name": "栏目菜单二",
+            "menu_column": 5,
+            "menus": [
+                {
+                    "name": "E宠团（狗）",
+                    "image": "https://img1.epetbar.com/2018-03/28/16/148a8a0c14d85ee6b0229770385d8f9f.jpg@!water",
+                    "img_size": "150X180",
+                    "target": {
+                        "mode": "web",
+                        "param": "https://wap.epet.com/group/v226/main.html?pet_type=dog"
+                    }
+                },
+                {
+                    "name": "品牌特卖",
+                    "image": "https://img1.epetbar.com/2018-02/02/14/9d335309be26f610a043e3bcc1e84b31.jpg@!water",
+                    "img_size": "150X180",
+                    "target": {
+                        "mode": "web",
+                        "param": "http://wap.epet.com/v2/brandsale.html?pet_type=dog"
+                    }
+                },
+                {
+                    "name": "E宠国际",
+                    "image": "https://img1.epetbar.com/2018-02/02/14/f1d45afa77b1844883595df4be0b6b50.jpg@!water",
+                    "img_size": "150X180",
+                    "target": {
+                        "mode": "web",
+                        "param": "http://wap.epetht.com/guide.html?pet_type=dog&fw=0&pet_type=dog"
+                    }
+                },
+                {
+                    "name": "潮品预售（狗）",
+                    "image": "https://img1.epetbar.com/2018-02/02/14/55231bc567328e7c57cde19809769d99.jpg@!water",
+                    "img_size": "150X180",
+                    "target": {
+                        "mode": "web",
+                        "param": "https://sale.epet.com/m/mould/fashion/main.html?pet_type=dog&pet_type=dog"
+                    }
+                },
+                {
+                    "name": "清仓特价",
+                    "image": "https://img1.epetbar.com/2018-02/02/15/59043067d26a2e7a521394c796dfa571.jpg@!water",
+                    "img_size": "150X180",
+                    "target": {
+                        "mode": "web",
+                        "param": "https://wap.epet.com/activity/cleargoods.html?pet_type=dog"
+                    }
+                },
+                {
+                    "name": "新汪课堂",
+                    "image": "https://img1.epetbar.com/2018-02/02/14/8a3fa0fdcfe58afc3ab548f0cf8493ad.jpg@!water",
+                    "img_size": "150X180",
+                    "target": {
+                        "mode": "web",
+                        "param": "https://wap.epet.com/main.html?menu_param=4&is_single=1&pet_type=dog"
+                    }
+                },
+                {
+                    "name": "萌爪联盟",
+                    "image": "https://img1.epetbar.com/2018-02/02/14/bfb4d746361712b8899000ba21ae55dd.jpg@!water",
+                    "img_size": "150X180",
+                    "target": {
+                        "mode": "web",
+                        "param": "https://wap.epet.com/union/trials/main.html?pet_type=dog"
+                    }
+                },
+                {
+                    "name": "潮品视频（狗）",
+                    "image": "https://img1.epetbar.com/2018-02/02/14/08779496e825394821a9bb96e1ee2b29.jpg@!water",
+                    "img_size": "150X180",
+                    "target": {
+                        "mode": "web",
+                        "param": "https://wap.epet.com/main.html?menu_param=121&is_single=1&pet_type=dog"
+                    }
+                },
+                {
+                    "name": "萌宠说",
+                    "image": "https://img1.epetbar.com/2018-02/02/14/015feab01fe5c19def0f1b83bf140b70.jpg@!water",
+                    "img_size": "150X180",
+                    "target": {
+                        "mode": "web",
+                        "param": "https://wap.epet.com/article/video/List.html?do=KnowledgeVideo&pet_type=dog"
+                    }
+                },
+                {
+                    "name": "小剧场",
+                    "image": "https://img1.epetbar.com/2018-02/02/14/a561f8d8f46d4070de082988134de6f4.jpg@!water",
+                    "img_size": "150X180",
+                    "target": {
+                        "mode": "web",
+                        "param": "https://wap.epet.com/article/video/List.html?do=AdorableVideo&pet_type=dog"
+                    }
+                }
+            ]
+        },
+        {
+            "index": "2438",
+            "is_show": 1,
+            "type": "1",
+            "is_dynamic": "1",
+            "type_name": "图片轮播广告"
+        },
+        {
+            "index": "3",
+            "is_show": 1,
+            "type": "8",
+            "is_dynamic": "1",
+            "type_name": "天天惊喜模板"
+        },
+        {
+            "index": "2933",
+            "is_show": 1,
+            "type": "100",
+            "is_dynamic": "0",
+            "type_name": "模块分割线",
+            "value": {
+                "image": "",
+                "img_size": "750x25",
+                "target": {}
+            }
+        },
+        {
+            "index": "2938",
+            "is_show": 1,
+            "type": "13",
+            "is_dynamic": "0",
+            "type_name": "通用广告模板",
+            "left_image": {
+                "image": "",
+                "img_size": "",
+                "target": {}
+            },
+            "center_image": {
+                "image": "",
+                "img_size": "",
+                "target": {}
+            },
+            "right_image": {
+                "image": "",
+                "img_size": "",
+                "target": {}
+            },
+            "show_line": "0",
+            "content_images": [
+                [
+                    {
+                        "advid": "25133",
+                        "atid": "0",
+                        "image": "https://img2.epetbar.com/nowater/2017-12/13/09/1ec9379f83eb421db9a09195c9594e29.jpg@!water",
+                        "img_size": "376x500",
+                        "target": {
+                            "mode": "web",
+                            "param": "http://wap.epetht.com/guide.html?pet_type=dog&fw=0"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "advid": "25135",
+                        "atid": "0",
+                        "image": "https://img2.epetbar.com/nowater/2017-12/13/10/35bb7f3bd146cb9a9e74a935803f0d9a.jpg@!water",
+                        "img_size": "374x250",
+                        "target": {
+                            "mode": "web",
+                            "param": "https://wap.epet.com/petschool/SchoolDetail.html?aid=116"
+                        }
+                    },
+                    {
+                        "advid": "27294",
+                        "atid": "0",
+                        "image": "https://img2.epetbar.com/nowater/2018-04/03/09/06273e732679cfcf9e4a5e98d1cc0e8c.jpg@!water",
+                        "img_size": "374x250",
+                        "target": {
+                            "mode": "web",
+                            "param": "https://sale.epet.com/m/mould/fashion/detail.html?id=149"
+                        }
+                    }
+                ]
+            ]
+        },
+        {
+            "index": "15",
+            "is_show": 1,
+            "type": "100",
+            "is_dynamic": "0",
+            "type_name": "模块分割线",
+            "value": {
+                "image": "",
+                "img_size": "750x25",
+                "target": {}
+            }
+        },
+        {
+            "index": "3121",
+            "is_show": 1,
+            "type": "1",
+            "is_dynamic": "0",
+            "type_name": "图片轮播广告",
+            "value": [
+                {
+                    "advid": "27578",
+                    "atid": "0",
+                    "image": "https://img2.epetbar.com/nowater/2018-04/09/09/cb1638292b794ab005e83f38e6c2d7bf.jpg@!water",
+                    "img_size": "750x320",
+                    "target": {
+                        "mode": "web",
+                        "param": "https://wap.epet.com/group/v226/main.html?groupType=miao"
+                    }
+                }
+            ]
+        },
+        {
+            "index": "2939",
+            "is_show": 1,
+            "type": "100",
+            "is_dynamic": "0",
+            "type_name": "模块分割线",
+            "value": {
+                "image": "",
+                "img_size": "750x25",
+                "target": {}
+            }
+        },
+        {
+            "index": "2139",
+            "is_show": 1,
+            "type": "21",
+            "is_dynamic": "0",
+            "type_name": "自定义Title模板",
+            "value": {
+                "title_height": "110",
+                "top_line": {
+                    "isline": 0,
+                    "line_color": "",
+                    "padding": "",
+                    "line_image": {}
+                },
+                "bottom_line": {
+                    "isline": 0,
+                    "line_color": "",
+                    "padding": "",
+                    "line_image": {}
+                },
+                "left": {
+                    "type": "image",
+                    "text": {},
+                    "img": {
+                        "image": "https://img2.epetbar.com/nowater/2017-12/20/15/38688d8d92c7da7aae64eda8b8bb3a94.jpg",
+                        "img_size": "285x110",
+                        "target": {
+                            "mode": "index_single",
+                            "param": "121"
+                        }
+                    }
+                },
+                "center": {},
+                "right": {
+                    "type": "image",
+                    "text": {},
+                    "img": {
+                        "image": "https://img2.epetbar.com/nowater/2017-12/20/15/0855ecf27a6ca47b32170caab2503ddd.jpg",
+                        "img_size": "120x110",
+                        "target": {
+                            "mode": "index_single",
+                            "param": "121"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "index": "2117",
+            "is_show": 1,
+            "type": "104",
+            "is_dynamic": "0",
+            "type_name": "首页视频列表",
+            "value": [
+                {
+                    "vid": "16",
+                    "title": "SodaPup 易拉罐漏食狗玩具 口感软弹洁牙护牙",
+                    "time": "01:29",
+                    "video_size": "9.52",
+                    "link": "http://player.epetbar.com/fa81754f7edd41d2b3dfa70264a20fd4/3e819b3509a545638784ece44d9af25b-5287d2089db37e62345123a1be272f8b.mp4",
+                    "visit": 9274,
+                    "visit_img": {
+                        "image": "https://static.epetbar.com/static_web/wap/dist/images/views-gray.png",
+                        "img_size": "30x25"
+                    },
+                    "cover": {
+                        "image": "https://img1.epetbar.com/2018-04/15/22/822b52d6f9a909d5e427efe9cef5a91e.jpg@!water",
+                        "img_size": "750X421"
+                    },
+                    "cateid": "15",
+                    "target": {
+                        "epet_site": "epet",
+                        "mode": "chao_video",
+                        "param": "16"
+                    },
+                    "share_target": {
+                        "mode": "shareto",
+                        "param": {
+                            "title": "SodaPup 易拉罐漏食狗玩具 口感软弹洁牙护牙",
+                            "content": "品质养宠·尽在E宠",
+                            "url": "https://wap.epet.com/article/video/View.html?vid=16&fw=0",
+                            "image": "https://img1.epetbar.com/2018-04/15/22/822b52d6f9a909d5e427efe9cef5a91e.jpg@!water",
+                            "types": "weixin,weixin_ring,qq,qzone,sina"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "index": "3111",
+            "is_show": 1,
+            "type": "100",
+            "is_dynamic": "0",
+            "type_name": "模块分割线",
+            "value": {
+                "image": "",
+                "img_size": "750x25",
+                "target": {}
+            }
+        },
+        {
+            "index": "3110",
+            "is_show": 1,
+            "type": "13",
+            "is_dynamic": "1",
+            "type_name": "通用广告模板"
+        },
+        {
+            "index": "2118",
+            "is_show": 1,
+            "type": "100",
+            "is_dynamic": "0",
+            "type_name": "模块分割线",
+            "value": {
+                "image": "",
+                "img_size": "750x25",
+                "target": {}
+            }
+        },
+        {
+            "index": "1356",
+            "is_show": 1,
+            "type": "21",
+            "is_dynamic": "0",
+            "type_name": "自定义Title模板",
+            "value": {
+                "title_height": "110",
+                "top_line": {
+                    "isline": 0,
+                    "line_color": "",
+                    "padding": "",
+                    "line_image": {}
+                },
+                "bottom_line": {
+                    "isline": 1,
+                    "line_color": "#e7e7e7",
+                    "padding": "10",
+                    "line_image": {}
+                },
+                "left": {
+                    "type": "image",
+                    "text": {},
+                    "img": {
+                        "image": "https://img2.epetbar.com/nowater/2017-12/13/13/11acf905ca327ed7aae8f9b4851850a0.jpg",
+                        "img_size": "285x110",
+                        "target": {
+                            "mode": "web",
+                            "param": "https://wap.epet.com/v2/brandsale.html?"
+                        }
+                    }
+                },
+                "center": {},
+                "right": {
+                    "type": "image",
+                    "text": {},
+                    "img": {
+                        "image": "https://img2.epetbar.com/nowater/2017-12/13/13/22f20febaae655371ef3766612102c0e.jpg",
+                        "img_size": "120x110",
+                        "target": {
+                            "mode": "web",
+                            "param": "https://wap.epet.com/v2/brandsale.html?"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "index": "3053",
+            "is_show": 1,
+            "type": "13",
+            "is_dynamic": "0",
+            "type_name": "通用广告模板",
+            "left_image": {
+                "image": "",
+                "img_size": "",
+                "target": {}
+            },
+            "center_image": {
+                "image": "",
+                "img_size": "",
+                "target": {}
+            },
+            "right_image": {
+                "image": "",
+                "img_size": "",
+                "target": {}
+            },
+            "show_line": "0",
+            "content_images": [
+                [
+                    {
+                        "advid": "26391",
+                        "atid": "0",
+                        "image": "https://img2.epetbar.com/nowater/2018-04/16/10/34f6b8bc182992fc023ad668722d45f6.jpg@!water",
+                        "img_size": "750x320",
+                        "target": {
+                            "mode": "web",
+                            "param": "http://sale.epetht.com/m/mould/activity/ztMjc3NQ%3D%3D.html?tid=2775"
+                        }
+                    }
+                ]
+            ]
+        },
+        {
+            "index": "3054",
+            "is_show": 1,
+            "type": "100",
+            "is_dynamic": "0",
+            "type_name": "模块分割线",
+            "value": {
+                "image": "",
+                "img_size": "750x25",
+                "target": {}
+            }
+        },
+        {
+            "index": "3088",
+            "is_show": 1,
+            "type": "13",
+            "is_dynamic": "0",
+            "type_name": "通用广告模板",
+            "left_image": {
+                "image": "",
+                "img_size": "",
+                "target": {}
+            },
+            "center_image": {
+                "image": "",
+                "img_size": "",
+                "target": {}
+            },
+            "right_image": {
+                "image": "",
+                "img_size": "",
+                "target": {}
+            },
+            "show_line": "0",
+            "content_images": [
+                [
+                    {
+                        "advid": "27532",
+                        "atid": "18229",
+                        "image": "https://img2.epetbar.com/nowater/2018-04/08/17/f8ca8574f04ec0fa7edc2ebe9e081404.jpg@!water",
+                        "img_size": "750x320",
+                        "target": {
+                            "mode": "web",
+                            "param": "http://sale.epet.com/m/mould/activity/ztMzQ4MA%3D%3D.html?tid=3480"
+                        }
+                    }
+                ]
+            ]
+        },
+        {
+            "index": "3089",
+            "is_show": 1,
+            "type": "100",
+            "is_dynamic": "0",
+            "type_name": "模块分割线",
+            "value": {
+                "image": "",
+                "img_size": "750x25",
+                "target": {}
+            }
+        },
+        {
+            "index": "3097",
+            "is_show": 1,
+            "type": "13",
+            "is_dynamic": "0",
+            "type_name": "通用广告模板",
+            "left_image": {
+                "image": "",
+                "img_size": "",
+                "target": {}
+            },
+            "center_image": {
+                "image": "",
+                "img_size": "",
+                "target": {}
+            },
+            "right_image": {
+                "image": "",
+                "img_size": "",
+                "target": {}
+            },
+            "show_line": "0",
+            "content_images": [
+                [
+                    {
+                        "advid": "27333",
+                        "atid": "0",
+                        "image": "https://img2.epetbar.com/nowater/2018-04/04/10/6afbf23c23988b13756a03aa85e14577.jpg@!water",
+                        "img_size": "750x320",
+                        "target": {
+                            "mode": "web",
+                            "param": "http://sale.epet.com/m/mould/activity/ztNDkyMw%3D%3D.html?tid=4923"
+                        }
+                    }
+                ]
+            ]
+        },
+        {
+            "index": "3098",
+            "is_show": 1,
+            "type": "100",
+            "is_dynamic": "0",
+            "type_name": "模块分割线",
+            "value": {
+                "image": "",
+                "img_size": "750x25",
+                "target": {}
+            }
+        },
+        {
+            "index": "3010",
+            "is_show": 1,
+            "type": "13",
+            "is_dynamic": "0",
+            "type_name": "通用广告模板",
+            "left_image": {
+                "image": "",
+                "img_size": "",
+                "target": {}
+            },
+            "center_image": {
+                "image": "",
+                "img_size": "",
+                "target": {}
+            },
+            "right_image": {
+                "image": "",
+                "img_size": "",
+                "target": {}
+            },
+            "show_line": "0",
+            "content_images": [
+                [
+                    {
+                        "advid": "27460",
+                        "atid": "0",
+                        "image": "https://img1.epetbar.com/2018-04/04/16/0821d81fa76b716cec690472fb3c94de.jpg@!water",
+                        "img_size": "750x320",
+                        "target": {
+                            "mode": "web",
+                            "param": "http://sale.epet.com/m/mould/activity/ztNDkwOQ%3D%3D.html?tid=4909"
+                        }
+                    }
+                ]
+            ]
+        },
+        {
+            "index": "2955",
+            "is_show": 1,
+            "type": "100",
+            "is_dynamic": "0",
+            "type_name": "模块分割线",
+            "value": {
+                "image": "",
+                "img_size": "750x25",
+                "target": {}
+            }
+        },
+        {
+            "index": "2954",
+            "is_show": 1,
+            "type": "13",
+            "is_dynamic": "0",
+            "type_name": "通用广告模板",
+            "left_image": {
+                "image": "",
+                "img_size": "",
+                "target": {}
+            },
+            "center_image": {
+                "image": "",
+                "img_size": "",
+                "target": {}
+            },
+            "right_image": {
+                "image": "",
+                "img_size": "",
+                "target": {}
+            },
+            "show_line": "0",
+            "content_images": [
+                [
+                    {
+                        "advid": "27745",
+                        "atid": "0",
+                        "image": "https://img2.epetbar.com/nowater/2018-04/13/15/f9bd292d72d19d5ab540f0335168ce0b.jpg@!water",
+                        "img_size": "750x320",
+                        "target": {
+                            "mode": "web",
+                            "param": "http://sale.epet.com/m/mould/activity/ztNTAxMg%3D%3D.html?tid=5012"
+                        }
+                    }
+                ]
+            ]
+        },
+        {
+            "index": "2957",
+            "is_show": 1,
+            "type": "100",
+            "is_dynamic": "0",
+            "type_name": "模块分割线",
+            "value": {
+                "image": "",
+                "img_size": "750x25",
+                "target": {}
+            }
+        },
+        {
+            "index": "2956",
+            "is_show": 1,
+            "type": "13",
+            "is_dynamic": "0",
+            "type_name": "通用广告模板",
+            "left_image": {
+                "image": "",
+                "img_size": "",
+                "target": {}
+            },
+            "center_image": {
+                "image": "",
+                "img_size": "",
+                "target": {}
+            },
+            "right_image": {
+                "image": "",
+                "img_size": "",
+                "target": {}
+            },
+            "show_line": "0",
+            "content_images": [
+                [
+                    {
+                        "advid": "27753",
+                        "atid": "19844",
+                        "image": "https://img2.epetbar.com/nowater/2018-04/13/15/18781128d24ec0afa5973beaae0bb618.jpg@!water",
+                        "img_size": "750x320",
+                        "target": {
+                            "mode": "web",
+                            "param": "https://sale.epet.com/m/mould/activity/ztNTAzMg%3D%3D.html?tid=5032"
+                        }
+                    }
+                ]
+            ]
+        },
+        {
+            "index": "2959",
+            "is_show": 1,
+            "type": "100",
+            "is_dynamic": "0",
+            "type_name": "模块分割线",
+            "value": {
+                "image": "",
+                "img_size": "750x25",
+                "target": {}
+            }
+        },
+        {
+            "index": "2958",
+            "is_show": 1,
+            "type": "13",
+            "is_dynamic": "0",
+            "type_name": "通用广告模板",
+            "left_image": {
+                "image": "",
+                "img_size": "",
+                "target": {}
+            },
+            "center_image": {
+                "image": "",
+                "img_size": "",
+                "target": {}
+            },
+            "right_image": {
+                "image": "",
+                "img_size": "",
+                "target": {}
+            },
+            "show_line": "0",
+            "content_images": [
+                [
+                    {
+                        "advid": "27772",
+                        "atid": "0",
+                        "image": "https://img2.epetbar.com/nowater/2018-04/13/18/36eb67688bfa43de21c492e2c7444d62.jpg@!water",
+                        "img_size": "750x320",
+                        "target": {
+                            "mode": "web",
+                            "param": "http://sale.epet.com/m/mould/activity/ztNTIyMg%3D%3D.html?tid=5222"
+                        }
+                    }
+                ]
+            ]
+        },
+        {
+            "index": "3079",
+            "is_show": 1,
+            "type": "100",
+            "is_dynamic": "0",
+            "type_name": "模块分割线",
+            "value": {
+                "image": "",
+                "img_size": "750x25",
+                "target": {}
+            }
+        },
+        {
+            "index": "2981",
+            "is_show": 1,
+            "type": "13",
+            "is_dynamic": "0",
+            "type_name": "通用广告模板",
+            "left_image": {
+                "image": "",
+                "img_size": "",
+                "target": {}
+            },
+            "center_image": {
+                "image": "",
+                "img_size": "",
+                "target": {}
+            },
+            "right_image": {
+                "image": "",
+                "img_size": "",
+                "target": {}
+            },
+            "show_line": "0",
+            "content_images": [
+                [
+                    {
+                        "advid": "27747",
+                        "atid": "0",
+                        "image": "https://img2.epetbar.com/nowater/2018-04/13/15/2782fd86b32ec0db28965ced109979d0.jpg@!water",
+                        "img_size": "750x320",
+                        "target": {
+                            "mode": "web",
+                            "param": "http://sale.epet.com/m/mould/activity/ztNTMwMQ%3D%3D.html?tid=5301"
+                        }
+                    }
+                ]
+            ]
+        },
+        {
+            "index": "3080",
+            "is_show": 1,
+            "type": "100",
+            "is_dynamic": "0",
+            "type_name": "模块分割线",
+            "value": {
+                "image": "",
+                "img_size": "750x25",
+                "target": {}
+            }
+        },
+        {
+            "index": "2983",
+            "is_show": 1,
+            "type": "13",
+            "is_dynamic": "0",
+            "type_name": "通用广告模板",
+            "left_image": {
+                "image": "",
+                "img_size": "",
+                "target": {}
+            },
+            "center_image": {
+                "image": "",
+                "img_size": "",
+                "target": {}
+            },
+            "right_image": {
+                "image": "",
+                "img_size": "",
+                "target": {}
+            },
+            "show_line": "0",
+            "content_images": [
+                [
+                    {
+                        "advid": "27538",
+                        "atid": "0",
+                        "image": "https://img2.epetbar.com/nowater/2018-04/16/09/30bdc75a0824ee390efc9cdc8f90b216.jpg@!water",
+                        "img_size": "750x320",
+                        "target": {
+                            "mode": "web",
+                            "param": "http://sale.epet.com/m/mould/activity/dNTEyNA%3D%3D.html?tid=5124"
+                        }
+                    }
+                ]
+            ]
+        },
+        {
+            "index": "3045",
+            "is_show": 1,
+            "type": "100",
+            "is_dynamic": "0",
+            "type_name": "模块分割线",
+            "value": {
+                "image": "",
+                "img_size": "750x25",
+                "target": {}
+            }
+        },
+        {
+            "index": "2985",
+            "is_show": 1,
+            "type": "13",
+            "is_dynamic": "0",
+            "type_name": "通用广告模板",
+            "left_image": {
+                "image": "",
+                "img_size": "",
+                "target": {}
+            },
+            "center_image": {
+                "image": "",
+                "img_size": "",
+                "target": {}
+            },
+            "right_image": {
+                "image": "",
+                "img_size": "",
+                "target": {}
+            },
+            "show_line": "0",
+            "content_images": [
+                [
+                    {
+                        "advid": "27763",
+                        "atid": "0",
+                        "image": "https://img2.epetbar.com/nowater/2018-04/13/16/be5ad03526252479a417ab91e860d07c.jpg@!water",
+                        "img_size": "750x320",
+                        "target": {
+                            "mode": "web",
+                            "param": "http://sale.epet.com/m/mould/activity/ztNTI3OQ%3D%3D.html?tid=5279"
+                        }
+                    }
+                ]
+            ]
+        },
+        {
+            "index": "2984",
+            "is_show": 1,
+            "type": "100",
+            "is_dynamic": "0",
+            "type_name": "模块分割线",
+            "value": {
+                "image": "",
+                "img_size": "750x25",
+                "target": {}
+            }
+        },
+        {
+            "index": "3124",
+            "is_show": 1,
+            "type": "13",
+            "is_dynamic": "0",
+            "type_name": "通用广告模板",
+            "left_image": {
+                "image": "",
+                "img_size": "",
+                "target": {}
+            },
+            "center_image": {
+                "image": "",
+                "img_size": "",
+                "target": {}
+            },
+            "right_image": {
+                "image": "",
+                "img_size": "",
+                "target": {}
+            },
+            "show_line": "0",
+            "content_images": [
+                [
+                    {
+                        "advid": "27470",
+                        "atid": "0",
+                        "image": "https://img1.epetbar.com/2018-04/04/17/b465836299d67bbf23a2730c41c698c3.jpg@!water",
+                        "img_size": "750x320",
+                        "target": {
+                            "mode": "web",
+                            "param": "http://sale.epet.com/m/mould/activity/ztNTA1NQ%3D%3D.html?tid=5055"
+                        }
+                    }
+                ]
+            ]
+        },
+        {
+            "index": "3125",
+            "is_show": 1,
+            "type": "100",
+            "is_dynamic": "0",
+            "type_name": "模块分割线",
+            "value": {
+                "image": "",
+                "img_size": "750x25",
+                "target": {}
+            }
+        },
+        {
+            "index": "3126",
+            "is_show": 1,
+            "type": "13",
+            "is_dynamic": "0",
+            "type_name": "通用广告模板",
+            "left_image": {
+                "image": "",
+                "img_size": "",
+                "target": {}
+            },
+            "center_image": {
+                "image": "",
+                "img_size": "",
+                "target": {}
+            },
+            "right_image": {
+                "image": "",
+                "img_size": "",
+                "target": {}
+            },
+            "show_line": "0",
+            "content_images": [
+                [
+                    {
+                        "advid": "27453",
+                        "atid": "0",
+                        "image": "https://img1.epetbar.com/2018-04/04/16/9af23a74ab5ebd79ee2ae5833332d3d1.jpg@!water",
+                        "img_size": "750x320",
+                        "target": {
+                            "mode": "web",
+                            "param": "http://sale.epet.com/m/mould/activity/ztNDkxMA%3D%3D.html?tid=4910"
+                        }
+                    }
+                ]
+            ]
+        },
+        {
+            "index": "3127",
+            "is_show": 1,
+            "type": "100",
+            "is_dynamic": "0",
+            "type_name": "模块分割线",
+            "value": {
+                "image": "",
+                "img_size": "750x25",
+                "target": {}
+            }
+        },
+        {
+            "index": "2996",
+            "is_show": 1,
+            "type": "13",
+            "is_dynamic": "0",
+            "type_name": "通用广告模板",
+            "left_image": {
+                "image": "",
+                "img_size": "",
+                "target": {}
+            },
+            "center_image": {
+                "image": "",
+                "img_size": "",
+                "target": {}
+            },
+            "right_image": {
+                "image": "",
+                "img_size": "",
+                "target": {}
+            },
+            "show_line": "0",
+            "content_images": [
+                [
+                    {
+                        "advid": "25425",
+                        "atid": "0",
+                        "image": "https://img2.epetbar.com/nowater/2018-03/21/09/60a17aedde5661ebf6bc998868de6b85.jpg@!water",
+                        "img_size": "750x320",
+                        "target": {
+                            "mode": "web",
+                            "param": "http://sale.epetht.com/m/mould/activity/ztMjczNQ%3D%3D.html?tid=2735"
+                        }
+                    }
+                ]
+            ]
+        },
+        {
+            "index": "3069",
+            "is_show": 1,
+            "type": "100",
+            "is_dynamic": "0",
+            "type_name": "模块分割线",
+            "value": {
+                "image": "",
+                "img_size": "750x25",
+                "target": {}
+            }
+        },
+        {
+            "index": "3103",
+            "is_show": 1,
+            "type": "13",
+            "is_dynamic": "0",
+            "type_name": "通用广告模板",
+            "left_image": {
+                "image": "",
+                "img_size": "",
+                "target": {}
+            },
+            "center_image": {
+                "image": "",
+                "img_size": "",
+                "target": {}
+            },
+            "right_image": {
+                "image": "",
+                "img_size": "",
+                "target": {}
+            },
+            "show_line": "0",
+            "content_images": [
+                [
+                    {
+                        "advid": "27761",
+                        "atid": "20147",
+                        "image": "https://img2.epetbar.com/nowater/2018-04/13/16/8a558b0630282484176db22be8c66546.jpg@!water",
+                        "img_size": "750x320",
+                        "target": {
+                            "mode": "web",
+                            "param": "https://sale.epet.com/m/mould/activity/ztNTMwNQ%3D%3D.html?tid=5305"
+                        }
+                    }
+                ]
+            ]
+        },
+        {
+            "index": "3104",
+            "is_show": 1,
+            "type": "100",
+            "is_dynamic": "0",
+            "type_name": "模块分割线",
+            "value": {
+                "image": "",
+                "img_size": "750x25",
+                "target": {}
+            }
+        },
+        {
+            "index": "1348",
+            "is_show": 1,
+            "type": "21",
+            "is_dynamic": "0",
+            "type_name": "自定义Title模板",
+            "value": {
+                "title_height": "110",
+                "top_line": {
+                    "isline": 0,
+                    "line_color": "",
+                    "padding": "",
+                    "line_image": {}
+                },
+                "bottom_line": {
+                    "isline": 0,
+                    "line_color": "",
+                    "padding": "",
+                    "line_image": {}
+                },
+                "left": {
+                    "type": "image",
+                    "text": {},
+                    "img": {
+                        "image": "https://img2.epetbar.com/nowater/2018-02/07/10/79d53b0ab1c8a630802d74b5beb0a632.jpg",
+                        "img_size": "285x110",
+                        "target": {
+                            "mode": "web",
+                            "param": "http://wap.epet.com/union/trials/main.html"
+                        }
+                    }
+                },
+                "center": {},
+                "right": {
+                    "type": "image",
+                    "text": {},
+                    "img": {
+                        "image": "https://img2.epetbar.com/nowater/2017-12/13/14/36046f2f89b3825c77b70ac89f5c7ad2.jpg",
+                        "img_size": "120x110",
+                        "target": {
+                            "mode": "web",
+                            "param": "http://wap.epet.com/union/trials/main.html"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "index": "1347",
+            "is_show": 1,
+            "type": "1",
+            "is_dynamic": "0",
+            "type_name": "图片轮播广告",
+            "value": [
+                {
+                    "advid": "27732",
+                    "atid": "0",
+                    "image": "https://img2.epetbar.com/nowater/2018-04/13/10/4f2787312a3d212bc65c062627eaa429.jpg@!water",
+                    "img_size": "750x320",
+                    "target": {
+                        "mode": "web",
+                        "param": "https://wap.epet.com/union/trials_report_detail.html?trid=951"
+                    }
+                },
+                {
+                    "advid": "27731",
+                    "atid": "0",
+                    "image": "https://img2.epetbar.com/nowater/2018-04/13/10/048b847bece3d1549ed46e1f21a9beec.jpg@!water",
+                    "img_size": "750x320",
+                    "target": {
+                        "mode": "web",
+                        "param": "https://wap.epet.com/union/trials_report_detail.html?trid=917"
+                    }
+                },
+                {
+                    "advid": "27724",
+                    "atid": "0",
+                    "image": "https://img2.epetbar.com/nowater/2018-04/13/10/3cb5704493b322cc0eae6ab49642e911.jpg@!water",
+                    "img_size": "750x320",
+                    "target": {
+                        "mode": "web",
+                        "param": "https://wap.epet.com/union/trials_report_detail.html?trid=919"
+                    }
+                }
+            ]
+        },
+        {
+            "index": "1423",
+            "is_show": 1,
+            "type": "100",
+            "is_dynamic": "0",
+            "type_name": "模块分割线",
+            "value": {
+                "image": "",
+                "img_size": "750x25",
+                "target": {}
+            }
+        },
+        {
+            "index": "2942",
+            "is_show": 1,
+            "type": "21",
+            "is_dynamic": "0",
+            "type_name": "自定义Title模板",
+            "value": {
+                "title_height": "110",
+                "top_line": {
+                    "isline": 0,
+                    "line_color": "",
+                    "padding": "",
+                    "line_image": {}
+                },
+                "bottom_line": {
+                    "isline": 0,
+                    "line_color": "",
+                    "padding": "",
+                    "line_image": {}
+                },
+                "left": {
+                    "type": "image",
+                    "text": {},
+                    "img": {
+                        "image": "https://img2.epetbar.com/nowater/2017-12/13/14/77c0017136e51145788b7607a3a0914c.jpg",
+                        "img_size": "285x110",
+                        "target": {
+                            "mode": "web",
+                            "param": "https://wap.epet.com/article/video/List.html?do=KnowledgeVideo"
+                        }
+                    }
+                },
+                "center": {},
+                "right": {
+                    "type": "image",
+                    "text": {},
+                    "img": {
+                        "image": "https://img2.epetbar.com/nowater/2017-12/13/10/0fe1de536bcade706f3e6e3c81b52d94.jpg",
+                        "img_size": "120x110",
+                        "target": {
+                            "mode": "web",
+                            "param": "https://wap.epet.com/article/video/List.html?do=KnowledgeVideo"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "index": "2944",
+            "is_show": 1,
+            "type": "104",
+            "is_dynamic": "0",
+            "type_name": "首页视频列表",
+            "value": [
+                {
+                    "vid": "116",
+                    "title": "第3期-汪星人你的大姨妈来了吗？",
+                    "time": "02:49",
+                    "video_size": "18.28",
+                    "link": "http://player.epetbar.com/9ea64b346e21465ca98dea14f4ca92ca/c7ecbf58efac4671921d0e0d82a7b625-5287d2089db37e62345123a1be272f8b.mp4",
+                    "visit": 98334,
+                    "visit_img": {
+                        "image": "https://static.epetbar.com/static_web/wap/dist/images/views-gray.png",
+                        "img_size": "30x25"
+                    },
+                    "cover": {
+                        "image": "https://img1.epetbar.com/2017-12/13/16/5837d50b4993a5de2aff2b26ce8cf3d5.png@!water",
+                        "img_size": "750X421"
+                    },
+                    "cateid": "26",
+                    "target": {
+                        "epet_site": "epet",
+                        "mode": "chao_video",
+                        "param": "116"
+                    },
+                    "share_target": {
+                        "mode": "shareto",
+                        "param": {
+                            "title": "第3期-汪星人你的大姨妈来了吗？",
+                            "content": "品质养宠·尽在E宠",
+                            "url": "https://wap.epet.com/article/video/View.html?vid=116&fw=0",
+                            "image": "https://img1.epetbar.com/2017-12/13/16/5837d50b4993a5de2aff2b26ce8cf3d5.png@!water",
+                            "types": "weixin,weixin_ring,qq,qzone,sina"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "index": "2979",
+            "is_show": 1,
+            "type": "100",
+            "is_dynamic": "0",
+            "type_name": "模块分割线",
+            "value": {
+                "image": "",
+                "img_size": "750x25",
+                "target": {}
+            }
+        },
+        {
+            "index": "2943",
+            "is_show": 1,
+            "type": "21",
+            "is_dynamic": "0",
+            "type_name": "自定义Title模板",
+            "value": {
+                "title_height": "110",
+                "top_line": {
+                    "isline": 0,
+                    "line_color": "",
+                    "padding": "",
+                    "line_image": {}
+                },
+                "bottom_line": {
+                    "isline": 0,
+                    "line_color": "",
+                    "padding": "",
+                    "line_image": {}
+                },
+                "left": {
+                    "type": "image",
+                    "text": {},
+                    "img": {
+                        "image": "https://img2.epetbar.com/nowater/2017-12/13/13/e747ca83834dbd4d1f9663f11f7bf146.jpg",
+                        "img_size": "285x110",
+                        "target": {
+                            "mode": "web",
+                            "param": "https://wap.epet.com/article/video/List.html?do=AdorableVideo"
+                        }
+                    }
+                },
+                "center": {},
+                "right": {
+                    "type": "image",
+                    "text": {},
+                    "img": {
+                        "image": "https://img2.epetbar.com/nowater/2017-12/13/14/e1871a010af5a246474628386a406cca.jpg",
+                        "img_size": "120x110",
+                        "target": {
+                            "mode": "web",
+                            "param": "https://wap.epet.com/article/video/List.html?do=AdorableVideo"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "index": "2946",
+            "is_show": 1,
+            "type": "104",
+            "is_dynamic": "0",
+            "type_name": "首页视频列表",
+            "value": [
+                {
+                    "vid": "171",
+                    "title": "一个位德艺双馨老艺术家（指的是就我）的日常",
+                    "time": "03:00",
+                    "video_size": "19.38",
+                    "link": "http://player.epetbar.com/f946d49ce1f94128beb9d3710ad20145/0d8ffb0412bb45d5a5aa7e7d0c7f4507-5287d2089db37e62345123a1be272f8b.mp4",
+                    "visit": 4520,
+                    "visit_img": {
+                        "image": "https://static.epetbar.com/static_web/wap/dist/images/views-gray.png",
+                        "img_size": "30x25"
+                    },
+                    "cover": {
+                        "image": "https://img1.epetbar.com/2018-04/10/16/98507cf93340adddcea4a44701891a4b.png@!water",
+                        "img_size": "750X421"
+                    },
+                    "cateid": "27",
+                    "target": {
+                        "epet_site": "epet",
+                        "mode": "chao_video",
+                        "param": "171"
+                    },
+                    "share_target": {
+                        "mode": "shareto",
+                        "param": {
+                            "title": "一个位德艺双馨老艺术家（指的是就我）的日常",
+                            "content": "品质养宠·尽在E宠",
+                            "url": "https://wap.epet.com/article/video/View.html?vid=171&fw=0",
+                            "image": "https://img1.epetbar.com/2018-04/10/16/98507cf93340adddcea4a44701891a4b.png@!water",
+                            "types": "weixin,weixin_ring,qq,qzone,sina"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "index": "2949",
+            "is_show": 1,
+            "type": "100",
+            "is_dynamic": "0",
+            "type_name": "模块分割线",
+            "value": {
+                "image": "",
+                "img_size": "750x25",
+                "target": {}
+            }
+        },
+        {
+            "index": "2948",
+            "is_show": 1,
+            "type": "13",
+            "is_dynamic": "0",
+            "type_name": "通用广告模板",
+            "left_image": {
+                "image": "",
+                "img_size": "",
+                "target": {}
+            },
+            "center_image": {
+                "image": "",
+                "img_size": "",
+                "target": {}
+            },
+            "right_image": {
+                "image": "",
+                "img_size": "",
+                "target": {}
+            },
+            "show_line": "0",
+            "content_images": [
+                [
+                    {
+                        "advid": "25144",
+                        "atid": "0",
+                        "image": "https://img2.epetbar.com/nowater/2017-12/13/11/be84f01e893b0e631d8512566eb79117.jpg@!water",
+                        "img_size": "750x61",
+                        "target": {}
+                    }
+                ]
+            ]
+        }
+    ]
+}

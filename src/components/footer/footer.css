@@ -1,0 +1,35 @@
+/*@import "/public/iconfont/iconfont1.css";*/
+.nav {
+  position: fixed;
+  bottom:0;
+  width:100%;
+  height:55px;
+
+
+  border-top:1px solid #eee;
+  z-index:99;
+  background: white;
+}
+.nav li{
+  float: left;
+  width:25%;
+  height:100%;
+  text-align: center;
+}
+
+.nav li div {
+  font-size: 14px;
+  height:20px;
+}
+
+.nav li i {
+  display: block;
+  font-size: 28px;
+  margin:2px auto;
+}
+
+/*配合activeClassName动态设置点击路由导航的字体颜色*/
+
+:global(.activeFooter){
+  color: #A2D198!important;
+}

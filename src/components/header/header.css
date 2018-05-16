@@ -1,0 +1,121 @@
+.header {
+  width:100%;
+  font-size: 16px;
+  background: #fff;
+}
+
+.header img:first-child {
+  width:100%;
+}
+
+.close {
+  position: absolute;
+  width:20px;
+  height:20px;
+  top:20px;
+  left:10px;
+  display: block;
+}
+
+.search {
+  padding:5px;
+  height:40px;
+  color: #898989;
+  overflow: hidden;
+  line-height:30px;
+}
+
+.search>div, .search>a {
+  float: left;
+}
+
+.address {
+  width:100px;
+  margin-left: -100%;
+}
+
+.searchContainer {
+  width:100%;
+}
+.toSearch {
+  background: #ededed;
+  position: relative;
+  margin:0 30px 0 100px;
+}
+
+.toSearch span {
+   margin-left: 10px;
+   font-size: 14px;
+}
+
+
+.toSearch i{
+  font-size: 12px;
+  position: absolute;
+  right: 10px;
+}
+
+.city {
+  position: relative;
+}
+
+.city i {
+  position: absolute;
+  top: 10px;
+  right: -11px;
+  border-width: 4px;
+  font-size: 0;
+  line-height: 0;
+  border-style: solid dashed dotted;
+  border-color: #898989 transparent transparent;
+}
+.myDope {
+  width:30px;
+  height:30px;
+  margin-left: -30px;
+  text-align: center;
+}
+
+
+.myDope img{
+  width:24px!important;
+  height:24px;
+  margin-top: 3px;
+}
+
+.nav {
+  width:100%;
+}
+
+.wrapper {
+  width:100%;
+  overflow: hidden;
+}
+
+.content {
+  width:600px;  /*初始化加载设置定宽是为了在动态计算出宽度之前不让li布局错乱*/
+  overflow: hidden;
+}
+
+.content li {
+  width:75px;
+  float: left;
+  text-align: center;
+}
+
+.noBorder{
+  display: inline-block;
+  font-size: 14px;
+  color: #333;
+  height:28px;
+  line-height: 28px;
+}
+
+.bottomBorder {
+  display: inline-block;
+  font-size: 14px;
+  color: #333;
+  height:28px;
+  line-height: 28px;
+  border-bottom: 2px solid #A2D198;
+}
